@@ -17,5 +17,12 @@ body {
     box-shadow: 5px 5px 20px blue;
     border-radius: 1rem;
     border: none;
+    width: 60%;
+    height: 60%;
+    text-align: center;
 }
 
+.title {
+    margin-bottom: 20px;
+    text-align: center;
+}
