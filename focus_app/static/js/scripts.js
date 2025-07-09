@@ -4,6 +4,7 @@ let pauseBtn = document.getElementById("pauseBtn");
 let resetBtn = document.getElementById("resetBtn");
 let taskInput = document.getElementById("taskInput");
 let taskDisplay = document.getElementById("taskDisplay");
+var button;
 
 let countdown;
 let timeLeft = 25 * 60; // 25 minutes in seconds equivalent to 1500s
