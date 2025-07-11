@@ -17,7 +17,7 @@ body {
     padding: 30px;
     border: 2px solid black;
     /* box-shadow: 5px 5px 20px blue; */
-    box-shadow: 0 0 50px rgba(0,0,255,0.9);
+    box-shadow: 0 0 60px rgba(0,0,255,0.9);
     border-radius: 1rem;
     border: none;
     width: 60%;
