@@ -77,10 +77,11 @@ body {
     gap: 1rem;
 }
 
+/* button styling starts here  */
 .btn {
     padding: 10px;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-    border-radius: 1rem;
+    border-radius: 1.2rem;
     border: none;
     background: lightblue;
 }
