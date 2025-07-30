@@ -86,6 +86,8 @@ body {
     background: lightblue;
 }
 
+/* Button hovering styling here */
+
 .btn:hover {
     transform: translateY(-5px);
     cursor: pointer;
