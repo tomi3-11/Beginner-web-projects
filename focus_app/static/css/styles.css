@@ -70,6 +70,7 @@ body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
+/* styling buttons here */
 .buttons {
     display: flex;
     align-items: center;
