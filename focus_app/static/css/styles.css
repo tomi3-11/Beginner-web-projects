@@ -61,6 +61,7 @@ body {
     -webkit-text-fill-color: transparent;
 }
 
+/* styling our timer */
 #timer {
     font-size: 5rem;
     color: #f00;
